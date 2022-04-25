@@ -8,7 +8,7 @@
 <div align="center" style="display: inline_block">
 <img align="right" width="300" src="https://c.tenor.com/8JBlAi60gs4AAAAM/pokemon-charizard.gif" />
 
-## 🚀 Currently learning:
+## 📖 Currently learning:
 <p align="center"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
