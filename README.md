@@ -35,6 +35,8 @@
 
     
   ![Snake animation](https://github.com/khgaa/khgaa/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <h6 align="center">Don't worry, this guy only eat those squares.</h6>
 
 <div>     
     
