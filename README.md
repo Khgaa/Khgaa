@@ -36,7 +36,6 @@
   
 <div>     
     
-  ![Snake animation](https://github.com/khgaa/khgaa/blob/output/github-contribution-grid-snake.svg)
     
 </div> 
 <!--
