@@ -6,7 +6,7 @@
 <h3 align="center">I'm just a new programmer with a dream, feel free to check my codes, i'll try to upload more often.</h3>
 
 <div align="center" style="display: inline_block">
-<img align="right" width="300" src="https://c.tenor.com/8JBlAi60gs4AAAAM/pokemon-charizard.gif" />
+<img align="right" width="300" src="https://c.tenor.com/8JBlAi60gs4AAAAM/pokemon-charizard.mp4" />
 
 ## 📖 Currently learning:
 <p align="center"> 
