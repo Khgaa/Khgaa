@@ -15,7 +15,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg"  width="44" height="44"/></a> 
 </p>
   
-## 📕 Pretending to learn:
+## 📕 Wanting to learn:
   <p align="center"> 
     <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="48" height="48"/></a> </a> 
     <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
